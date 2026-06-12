@@ -7,7 +7,7 @@ cask "maccycustom" do
   desc "Maccy fork with multi-select paste"
   homepage "https://github.com/astrovini/MaccyCustom"
 
-  depends_on macos: ">= :sonoma"
+  depends_on macos: :sonoma
   conflicts_with cask: "maccy"
 
   app "Maccy.app"
