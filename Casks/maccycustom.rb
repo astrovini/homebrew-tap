@@ -1,6 +1,6 @@
 cask "maccycustom" do
-  version "2.7.0"
-  sha256 "91e3ac98994765ed096a19dd62375e9ffbf8d1ee644c06bed263b7096dacf1b4"
+  version "2.7.1"
+  sha256 "c7b82aabdb952612cb61567433effca4c4cfaf22456808a9145892e691a4dc43"
 
   url "https://github.com/astrovini/MaccyCustom/releases/download/v#{version}/Maccy-#{version}.zip"
   name "MaccyCustom"
