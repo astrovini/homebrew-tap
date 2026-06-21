@@ -1,6 +1,6 @@
 cask "bettermaccy" do
-  version "2.8.0"
-  sha256 "89ef6e21e9ce867c08e201ea7285dc7d8ad509907a74f624426a2cb5979a3b23"
+  version "2.8.1"
+  sha256 "1e0fe108810f9565d9aaecf5e42e57499140e1108b7d047a3a9469f3a18bf5cd"
 
   url "https://github.com/astrovini/BetterMaccy/releases/download/v#{version}/BetterMaccy-#{version}.zip"
   name "BetterMaccy"
